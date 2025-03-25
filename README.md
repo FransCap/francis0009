@@ -7,10 +7,6 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 💬 Ask me about **Light-Paws, Emperor's Voice**
-
-- ⚡ Fun fact **I use a mono-white deck**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
